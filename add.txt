@@ -1,0 +1,4 @@
+This is to test add command
+this to commit 
+this is the first program
+welcome to bash
